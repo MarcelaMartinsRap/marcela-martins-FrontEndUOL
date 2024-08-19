@@ -27,4 +27,16 @@ GitHub serviço de hospedagem de projetos git
 Comandos básicos git: init, add, commit, push, pull, branch, merge.
 Benefícios: maior agilidade, colaboração em equipe e controle de versão.
 
+Principais comandos git:
+**git init:** Inicializa um novo repositório Git em um diretório.
+**git add:** Adiciona arquivos ao staging area para serem commitados.
+**git commit:** Cria um novo commit com as alterações adicionadas ao staging area.
+**git status:** Mostra o status do seu repositório, indicando quais arquivos foram modificados, adicionados ao staging area, etc.
+**git log:** Mostra os commits realizados
+**git branch:** Mostra as branchs do repositório.
+**git checkout:** Muda para uma branch existente.
+**git merge:** Mescla uma branch em outra.
+**git pull:** Baixa novas alterações de um repositório remoto e as mescla na branch atual.
+* **git push:** Envia as alterações locais para um repositório remoto.
+
 
