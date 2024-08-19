@@ -37,6 +37,6 @@ Principais comandos git:
 **git checkout:** Muda para uma branch existente.
 **git merge:** Mescla uma branch em outra.
 **git pull:** Baixa novas alterações de um repositório remoto e as mescla na branch atual.
-* **git push:** Envia as alterações locais para um repositório remoto.
+**git push:** Envia as alterações locais para um repositório remoto.
 
 
