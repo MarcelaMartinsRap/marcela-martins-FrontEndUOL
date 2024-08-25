@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Repositória criado com o intuito de acompanhamneto das Sprints semanais do programa de bolsas Front-end AWS UOL Compass
+Repositório criado com o intuito de acompanhamneto das Sprints semanais do programa de bolsas Front-end AWS UOL Compass
 
 ## Sprints
 
