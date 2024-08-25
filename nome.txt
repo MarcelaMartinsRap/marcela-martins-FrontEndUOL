@@ -1,6 +1,0 @@
-Nome: Marcela Eduarda de França Martins
-Idade: 25
-Curso: Análise e desenvolvimento de sistemas - UNIPÊ
-Conhecimentos: HTML, CSS, JavaScript, python
-
-Nas horas vagas apreencio estudar projetos de outros desenvedores, praticar jiu jitsu, caminhar, ler um livro ou escutar Queen

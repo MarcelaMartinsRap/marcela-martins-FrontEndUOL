@@ -1,0 +1,14 @@
+## Marcela Eduarda de França Martins
+
+**Desenvolvedora Front-end** | apaixonada por criar interfaces intuitivas e experiências do usuário memoráveis. Atualmente cursando Análise e Desenvolvimento de Sistemas na UNIPÊ, busco aprimorar minhas habilidades em tecnologias web e contribuir para projetos inovadores.
+
+### Habilidades Técnicas
+
+* **Front-end:** HTML, CSS, JavaScript, React JS
+* **Back-end:** Python 
+* **Banco de dados:** Firebase, MySQL
+* **Ferramentas:** Git, Bootstrap
+
+### Hobbies
+Além de programar, adoro praticar jiu-jitsu, que me ensinou disciplina e trabalho em equipe. Também gosto de me manter atualizada sobre as últimas tendências da área, lendo artigos e assistindo a tutoriais.
+

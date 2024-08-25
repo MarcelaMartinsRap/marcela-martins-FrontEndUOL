@@ -1,0 +1,18 @@
+# Marcela Martins - Portfólio de Desenvolvimento
+
+## Habilidades Técnicas
+
+* **Linguagens de Programação:**
+  * Python
+  * JavaScript
+  * ...
+* **Frameworks e Ferramentas:**
+  * React JS
+  * Bootstrap
+  * Git
+  * Scrum
+  * ...
+* **Bancos de dados:**
+  * Firebase
+  * MySQL
+  * ...

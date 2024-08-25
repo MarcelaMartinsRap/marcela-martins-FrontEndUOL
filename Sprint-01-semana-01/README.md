@@ -1,42 +1,43 @@
-# Semana 1 - Segurança da informação, Scrum, git and GitHub
+# Sprint-01-semana-01
 
-Segurança da informação: 
+## O que aprendi
+* Segurança da Informação
+* Metodologia Ágil com Scrum
+* Instalei e configurei o Git.
+* Criei meu primeiro repositório local e remoto.
+* Realizei meus primeiros commits.
+* Criei e mesclei branches.
+* Aprendi sobre padrões de commits.
 
-Pilares da segurança da informação
-Classificação de tipos de informação e sua disponibilidade
-Engenharia social como fator de coleta de dados por cibercriminosos
-Boas práticas e diretrizes para segurança
-IA generativa: meios de usá-la sem coletar dados sigilosos.
+## Segurança da informação
+* Pilares da segurança da informação
+* Classificação de tipos de informação e sua disponibilidade
+* Engenharia social como fator de coleta de dados por cibercriminosos
+* Boas práticas e diretrizes para segurança
+* IA generativa: meios de usá-la sem coletar dados sigilosos.
 
-Métodos ágeis com Scrum:
+## Métodos ágeis com Scrum
+* Papéis: Dono do produto, Scrum master, time de desenvolvimento
+* Ciclo do Scrum
+* Visão
+* histórias
+* User history
+* Planejamento de sprints
+* Sprint Review
+* Sprint retrospectiva.
 
-Papéis: Dono do produto, Scrum master, time de desenvolvimento
-Ciclo do Scrum
-1.Visão
-2.histórias
-3.User history
-4.Planejamento de sprints
-5.Sprint Review
-7.Sprint retrospectiva.
+## Comandos do Git utilizados
+* git init
+* git add
+* git commit
+* git push
+* git branch
+* git checkout
+* git merge
 
-Git e GitHub: 
-
-Git ferramenta de versionamento de código
-GitHub serviço de hospedagem de projetos git
-
-Comandos básicos git: init, add, commit, push, pull, branch, merge.
-Benefícios: maior agilidade, colaboração em equipe e controle de versão.
-
-Principais comandos git:
-**git init:** Inicializa um novo repositório Git em um diretório.
-**git add:** Adiciona arquivos ao staging area para serem commitados.
-**git commit:** Cria um novo commit com as alterações adicionadas ao staging area.
-**git status:** Mostra o status do seu repositório, indicando quais arquivos foram modificados, adicionados ao staging area, etc.
-**git log:** Mostra os commits realizados
-**git branch:** Mostra as branchs do repositório.
-**git checkout:** Muda para uma branch existente.
-**git merge:** Mescla uma branch em outra.
-**git pull:** Baixa novas alterações de um repositório remoto e as mescla na branch atual.
-* **git push:** Envia as alterações locais para um repositório remoto.
+## Próximos passos
+* Explorar outras funcionalidades do Git.
+* Aprender sobre Git Flow.
+* Utilizar ferramentas como GitHub Desktop.
 
 
