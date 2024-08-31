@@ -6,11 +6,11 @@ Repositório criado com o intuito de acompanhamneto das Sprints semanais do prog
 
 ## Sprints
 
-### Sprint 1 - Segurança da informmação, Metodólogia Ágil, Git e Github
+### Sprint 1 Semana 1 - Segurança da informmação, Metodólogia Ágil, Git e Github
 * **Tópicos:** Segurança da informação, Scrum, Versionamento de código git
 * **Projetos:** Criação de repositorio local e integração com remoto.
 
-### Sprint 2 - HTML, CSS, JavaScript e Flexbox
+### Sprint 1 Semana 2 - HTML, CSS, JavaScript e Flexbox
 * **Tópicos:** Estrutura HTMl, estilização e centralização de Div's, manipulação com JavaScript
 * **Projetos:** Desenvolvimento de uma aplicação web que redireciona a outra página Html após tempo determinado
 
