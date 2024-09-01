@@ -1,7 +1,7 @@
 ## Lista de Lugares Visitados
 
 ### Descrição
-Este projeto é um simples aplicativo web que permite ao usuário criar e gerenciar uma lista de lugares que já visitou. O aplicativo utiliza JavaScript para interagir com o usuário e manipular a lista, armazenando os dados em um array em memória.
+Este projeto é um simples site web que permite ao usuário criar e gerenciar uma lista de lugares que já visitou. O site utiliza JavaScript para interagir com o usuário e manipular a lista, armazenando os dados em um array em memória.
 
 ### Funcionalidades
 * **Adicionar lugares:** Permite ao usuário adicionar novos lugares à lista.
