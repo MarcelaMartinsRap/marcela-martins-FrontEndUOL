@@ -14,6 +14,10 @@ Repositório criado com o intuito de acompanhamneto das Sprints semanais do prog
 * **Tópicos:** Estrutura HTMl, estilização e centralização de Div's, manipulação com JavaScript
 * **Projetos:** Desenvolvimento de uma aplicação web que redireciona a outra página Html após tempo determinado
 
+### Sprint 1 Semana 3 - JavaScript do básico ao avançado
+* **Tópicos:** Manipulação de DOM, Arrays, Orientação a objetos, Funções, Interação com usuário com Prompt e Estruturas de controle
+* **Projetos:** Desenvolvimento de uma aplicação web que armazena, controla, remove e lista lugares visistados de acordo com a interação do usuário.
+
 ...
 
 ## Habilidades Desenvolvidas
