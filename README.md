@@ -2,19 +2,19 @@
 
 ## Introdução
 
-Repositório criado com o intuito de acompanhamneto das Sprints semanais do programa de bolsas Front-end AWS UOL Compass
+Repositório criado com o intuito de acompanhamneto das atividades semanais do programa de bolsas Front-end AWS UOL Compass
 
-## Sprints
+## semanas
 
-### Sprint 1 Semana 1 - Segurança da informmação, Metodólogia Ágil, Git e Github
+###Semana01 Atividade 01 12 a 16/08 - Segurança da informmação, Metodólogia Ágil, Git e Github
 * **Tópicos:** Segurança da informação, Scrum, Versionamento de código git
 * **Projetos:** Criação de repositorio local e integração com remoto.
 
-### Sprint 1 Semana 2 - HTML, CSS, JavaScript e Flexbox
+### Semana 02 Atividade 02 19 a 23/08 - HTML, CSS, JavaScript e Flexbox
 * **Tópicos:** Estrutura HTMl, estilização e centralização de Div's, manipulação com JavaScript
 * **Projetos:** Desenvolvimento de uma aplicação web que redireciona a outra página Html após tempo determinado
 
-### Sprint 1 Semana 3 - JavaScript do básico ao avançado
+### Semana 03 Atividade 03 26 a 30/08 - JavaScript do básico ao avançado
 * **Tópicos:** Manipulação de DOM, Arrays, Orientação a objetos, Funções, Interação com usuário com Prompt e Estruturas de controle
 * **Projetos:** Desenvolvimento de uma aplicação web que armazena, controla, remove e lista lugares visistados de acordo com a interação do usuário.
 
