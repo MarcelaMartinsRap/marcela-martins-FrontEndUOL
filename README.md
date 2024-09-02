@@ -2,9 +2,9 @@
 
 ## Introdução
 
-Repositório criado com o intuito de acompanhamneto das Sprints semanais do programa de bolsas Front-end AWS UOL Compass
+Repositório criado com o intuito de acompanhamneto das atividades semanais do programa de bolsas Front-end AWS UOL Compass
 
-## Sprints
+## Semanas
 
 ### Sprint 1 Semana 1 - Segurança da informmação, Metodólogia Ágil, Git e Github
 * **Tópicos:** Segurança da informação, Scrum, Versionamento de código git
