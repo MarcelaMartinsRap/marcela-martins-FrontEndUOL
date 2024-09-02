@@ -6,7 +6,7 @@ Repositório criado com o intuito de acompanhamneto das atividades semanais do p
 
 ## semanas
 
-###Semana01 Atividade 01 12 a 16/08 - Segurança da informmação, Metodólogia Ágil, Git e Github
+### Semana 01 Atividade 01 12 a 16/08 - Segurança da informmação, Metodólogia Ágil, Git e Github
 * **Tópicos:** Segurança da informação, Scrum, Versionamento de código git
 * **Projetos:** Criação de repositorio local e integração com remoto.
 
