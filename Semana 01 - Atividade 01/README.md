@@ -1,4 +1,4 @@
-# Sprint-01-semana-01
+# Semana 01
 
 ## O que aprendi
 * Segurança da Informação
