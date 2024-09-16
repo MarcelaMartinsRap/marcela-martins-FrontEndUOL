@@ -16,4 +16,4 @@ Este projeto prático tem como objetivo consolidar os conhecimentos adquiridos e
 
 ## Notas de Melhoria de aprendizado
 * **Aplicar Typescripte:** Aplicar conceitos de TypeScripte em projetos anteriores e pessoais, afim de melhorar minha maneira de escrever códigos.
-* **Firmar conhecimento: ** Revisar conceitos de TypeScripte para firmar meus conhecimentos e conseguir programar com mais rápidez e menos consultas.
+* **Firmar conhecimento:** Revisar conceitos de TypeScripte para firmar meus conhecimentos e conseguir programar com mais rápidez e menos consultas.
