@@ -20,6 +20,15 @@ Repositório criado com o intuito de acompanhamneto das atividades semanais do p
 * **Tópicos:** Manipulação de DOM, Arrays, Orientação a objetos, Funções, Interação com usuário com Prompt e Estruturas de controle
 * **Projetos:** Desenvolvimento de uma aplicação web que armazena, controla, remove e lista lugares visistados de acordo com a interação do usuário.
 
+### Semana 04 Desafio 01 02 a 06/09 Desafio Pomo
+* **Navegação entre páginas:** Links e manipulação de botões com Java Script que direcionavam a outras páginas
+* **Responsividade:** Manipulção de elementos para se adequarem a diferentes páginas web
+* **Figma para Escolpo de projeto:** A utilização do figma como parametro para estilização do site
+
+### Semana 05 Atividade 04 09 a 13/09 - Node e TypeScript
+* **Módulos:** Aprofundei meu conhecimento sobre módulos em Node.js. Implementei a organização modular em um projeto pessoal.
+* **TypeScript:** Explorei os conceitos de interfaces e tipos genéricos em TypeScript, melhorando a tipagem e a reutilização de código em meus projetos.
+
 ...
 
 ## Habilidades Desenvolvidas
