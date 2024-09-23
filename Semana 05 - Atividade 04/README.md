@@ -10,10 +10,10 @@ Este projeto prático tem como objetivo consolidar os conhecimentos adquiridos e
 * **Módulos:** Organização do código em módulos, facilitando a manutenção e a reutilização.
 
 ## Pré-requisitos
-* **Node.js.
+* **Node.js**.
 * **Editor de código:** Visual Studio Code, Sublime Text ou outro editor de sua preferência.
 * **Conhecimento básico de JavaScript:** É recomendado ter familiaridade com os conceitos fundamentais de JavaScript.
 
 ## Notas de Melhoria de aprendizado
 * **Aplicar Typescripte:** Aplicar conceitos de TypeScripte em projetos anteriores e pessoais, afim de melhorar minha maneira de escrever códigos.
-* **Firmar conhecimento: ** Revisar conceitos de TypeScripte para firmar meus conhecimentos e conseguir programar com mais rápidez e menos consultas.
+* **Firmar conhecimento:** Revisar conceitos de TypeScripte para firmar meus conhecimentos e conseguir programar com mais rápidez e menos consultas.
