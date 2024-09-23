@@ -1,0 +1,42 @@
+button {
+  background-color: #ff6064;
+  color: white;
+  width: 200px;
+  height: 35px;
+  border-radius: 25px;
+  cursor: pointer;
+  margin-right: 5px; 
+  text-align: center;
+  float: right;
+  
+}
+.addPiada{
+  background-color: green;
+}
+form{
+  display: inline-block;
+}
+h1{
+  text-align: center;
+}
+input {
+  color: #000;
+  font-size: 15.36px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 35px;
+  margin-right: 10px;
+  border-radius: 20px;
+  
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
