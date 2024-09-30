@@ -29,6 +29,10 @@ Repositório criado com o intuito de acompanhamneto das atividades semanais do p
 * **Módulos:** Aprofundei meu conhecimento sobre módulos em Node.js. Implementei a organização modular em um projeto pessoal.
 * **TypeScript:** Explorei os conceitos de interfaces e tipos genéricos em TypeScript, melhorando a tipagem e a reutilização de código em meus projetos.
 
+### Semana 06 Atividade 05 16 a 20/09 - Tailwind e React com TypeScript
+* **Estilização rápida e eficiente:** Descobri como a sintaxe utilitária do Tailwind permite criar interfaces visuais complexas de forma rápida e intuitiva, sem a necessidade de escrever muitas classes CSS personalizadas.
+* **Componentes funcionais e hooks:** Dominando a criação de componentes funcionais e o uso de hooks como useState e useEffect para gerenciar o estado e os efeitos colaterais em meus componentes.
+
 ...
 
 ## Habilidades Desenvolvidas
@@ -37,6 +41,8 @@ Repositório criado com o intuito de acompanhamneto das atividades semanais do p
 * **HTML:** Estrutura de esqueleto da página
 * **CSS:** Estilização de página HTML, bem como conceitos de FlexBox
 * **JavaScript:** Manipulação do HTMl com JavaScript
+* **Tailwind:** Estilização e aperfeiçoamento de elementos css
+* **React:** biblioteca JavaScript popular para construção de interfaces de usuário
 
 
 ## Agradecimentos
