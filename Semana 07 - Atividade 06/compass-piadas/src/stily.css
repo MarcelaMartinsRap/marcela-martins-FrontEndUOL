@@ -1,0 +1,33 @@
+body {  
+  font-family: Arial, sans-serif;  
+  margin: 20px;  
+  max-width: 100%;  
+}  
+
+.joke-item {  
+  margin: 15px 0;  
+  padding: 10px;  
+  border: 1px solid #ddd;  
+  border-radius: 5px;  
+}  
+
+input {  
+  width: calc(50% - 10px);  
+  margin-right: 10px;  
+  padding: 5px;  
+}
+
+button{
+  background-color: #ff6064;
+  color: white;
+  width: 200px;
+  height: 35px;
+  border-radius: 25px;
+  cursor: pointer;
+  margin-right: 5px; 
+  
+}
+
+h1{
+  text-align: center;
+}

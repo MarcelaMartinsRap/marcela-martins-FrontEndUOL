@@ -1,0 +1,49 @@
+{
+  "Jokes": [
+    {
+      "id": "02",
+      "joke": "Por que a maçã não queria para de correr na corrida?",
+      "response": "Porque, se não, a uva passa!"
+    },
+    {
+      "id": "03",
+      "joke": "O que o cavalo foi fazer no orelhao?",
+      "response": "Passar um trote!"
+    },
+    {
+      "id": "04",
+      "joke": "O que o exterminador do futuro falou quando o seu tecnico de informática perguntou: instala o XP?",
+      "response": "Instala vista baby!"
+    },
+    {
+      "id": "05",
+      "joke": "Quando os americanos comeram carne pela primeira vez?",
+      "response": "Quando chegou Cristovao COM LOMBO!"
+    },
+    {
+      "id": "06",
+      "joke": "O que o Vegeta falou pro abacate quando foi come-lo?",
+      "response": "Maldito Kakaroço!"
+    },
+    {
+      "id": "07",
+      "joke": "Qual o nome do filho do magneto?",
+      "response": "Magbisneto!"
+    },
+    {
+      "id": "08",
+      "joke": "Um pato chamou outros patos pra jogar bola, como terminou o jogo?",
+      "response": "Empatado"
+    },
+    {
+      "id": "09",
+      "joke": "O que aconteceu com a baleia quando tomou um tiro?",
+      "response": "Ficou BALEADA"
+    },
+    {
+      "id": "19d2",
+      "joke": "cat",
+      "response": "noir"
+    }
+  ]
+}
